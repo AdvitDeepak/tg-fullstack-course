@@ -4,14 +4,14 @@ This site provides a tutorial for creating fullstack apps using TigerGraph.
 
 Each tab is fleshed out below:
 
-- **Why Dashboard?** - learning the importance of visualizations
-- **Quick Start** - a no-fluff guide that jumps straight into the content
-- **Adventure** - same content as **Quick Start**, but wrapped around an immersive story
-- **Examples** - sample dashboards made using TigerGraph and Plotly Dash
+- **Why Fullstack?** - learning the importance of fullstack applications
+- **Course Chapters** - seven chapters on how to create a COVID-19 tracker
+- **Finished Product** - analyzing the core features of our new fullstack app
+- **Fullstack Examples** - sample fullstack apps made using TigerGraph backend
 - **Resources** - external resources, broken down by chapter and description
-- **Community** - connecting with the TigerGraph and Plotly communities
+- **Community** - connecting with the TigerGraph and Quasar communities
 
-The live link to the website can be found here: https://tigergraph-devlabs.github.io/tg-dash-class/
+The live link to the website can be found here: *Coming soon!*
 
 &nbsp; &nbsp;
 
@@ -27,4 +27,4 @@ This site was created using MkDocs and is editable with using markdown.
 For any assistance, feel free to ask on the [TigerGraph Discord](https://discord.gg/F2c9b9v) or
 on the [TigerGraph Community Forum](https://community.tigergraph.com/).
 
-Happy dashboarding! 🥳🥳🥳
+Happy developing! 🥳🥳🥳
